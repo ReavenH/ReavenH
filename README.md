@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReavenH
 - 👀 I’m interested in computer vision, especially object detection.
-- 🌱 I’m currently learning communication engineering, but planning to pursue a PhD degree in AI or CV.
+- 🌱 I’m currently a junior undergraduate learning communication engineering, but planning to pursue a PhD degree in AI or CV.
 - 📫 Email me: reavenhuang@gmail.com
 
 <!---
